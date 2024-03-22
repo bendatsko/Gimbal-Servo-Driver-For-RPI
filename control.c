@@ -10,8 +10,6 @@
 
 #include <stdlib.h> // required for input parsing
 
-using namespace std;
-
 int main(int argc, char *argv[])
 {
 
